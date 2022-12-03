@@ -5,15 +5,15 @@ channels:
 dependencies:
   - python >= 3.8
   - pip
-  - numpy>=1.1.6
+  - numpy>=1.2.6
   - click>=8.0
   - pillow=8.3.1
   - scipy=1.7.1
-  - pytorch=1.11.1
-  - cudatoolkit=11.3.1
+  - pytorch=1.11.0
+  - cudatoolkit=11.3
   - requests=2.26.0
   - tqdm=4.62.2
-  - ninja=1.11.2
+  - ninja=1.10.2
   - matplotlib=3.4.2
   - imageio=2.9.0
   - pip:
