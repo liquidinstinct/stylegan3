@@ -1,12 +1,10 @@
-name: stylegan3-env
+name: stylegan3
 channels:
-  -defaluts
   - pytorch
   - nvidia
 dependencies:
   - pyyaml
-  - opencv
-  - tensorflow-gpu==2.5.0 
+  - opencv 
   - python >= 3.8
   - pip
   - numpy>=1.2.6
