@@ -6,13 +6,13 @@ dependencies:
   - pyyaml
   - opencv 
   - python >= 3.8
-  - pip=2.22.2
+  - pip
   - numpy>=1.20
   - click>=8.0
   - pillow=8.3.1
   - scipy=1.7.1
   - pytorch=1.10.0
-  - cudatoolkit=12
+  - cudatoolkit=11.4
   - requests=2.26.0
   - tqdm=4.62.2
   - ninja=1.10.2
