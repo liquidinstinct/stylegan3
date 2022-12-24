@@ -3,10 +3,11 @@ channels:
   - pytorch
   - nvidia
 dependencies:
+  -tensorflow=1.15
   - pyyaml
   - opencv 
-  - python= 3.10
-  - pip
+  - python= 3.6
+  - pip=22.0.4
   - numpy>=1.23.1
   - click>=8.0
   - pillow=8.3.1
