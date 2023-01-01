@@ -6,7 +6,7 @@ dependencies:
   - pyyaml
   - opencv 
   - python= 3.6
-  - pip=22.0.4
+  - pip
   - numpy>=1.23.1
   - click>=8.0
   - pillow=8.3.1
