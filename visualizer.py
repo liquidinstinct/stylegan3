@@ -7,7 +7,7 @@
 
 import click
 import os
-
+import pillow
 import multiprocessing
 import numpy as np
 import imgui
